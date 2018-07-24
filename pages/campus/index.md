@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Campus Life
+title: Exchange Student Program
 permalink: /campus/
 category: campus
 ---
