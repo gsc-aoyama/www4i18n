@@ -15,7 +15,6 @@ AGU has two campuses that are home to 10 schools and 24 departments, with an enr
 
 Find out more about AGU at AGU Facts and Data ( [http://www.aoyama.ac.jp/en/outline/facts_data.html](http://www.aoyama.ac.jp/en/outline/facts_data.html) ).
 
----
 
 ## Contact
 * Academic Affairs Division
