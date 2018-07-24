@@ -6,29 +6,38 @@ category: career
 sort: 1
 ---
 
-#### Andrew Hampson
+The students and faculties of GSC, located on the Sagamihara Campus, are ready to support international students. You can also meet English-speaking staff at the Student Center. So if you need help, please stop by. You will find GSC’s major support resources for international students at the center, which should help you get off to a smooth start for your life in Japan.
 
-AGU’s Japan Studies Program has provided me with a comprehensive learning experience synthesizing both academic and cultural curricula into one fantastic journey. I was able to achieve personal growth through every experience at AGU, becoming a more well-rounded student and global citizen, as well as, give back to the AGU community by sharing my own cultural heritage, language and friendship. I would recommend this program to anyone seeking a challenging learning opportunity, personal growth, friendships, and of course, memories that will last a lifetime. Needless to say, the Japan Studies Program has been the highlight of my undergraduate experience.
+## Support
+###  Advisers, Buddy/Tutor System
+International students are assigned a faculty adviser and a student buddy/tutor. Buddies/tutors can help the students with course registration, adjusting to life in Japan, Japanese-speaking practice, etc. The Japanese students who volunteer for the buddy system are very interested in other cultures and in developing international friendships.
 
-![andrewhampson](https://user-images.githubusercontent.com/416977/41880583-cbd73578-7919-11e8-8540-0278fe0ff2a2.jpg)
+### Airport Pick-Up Service
+This is a shuttle bus service available at Narita Airport provided by GSC for international students moving into accommodation near the Sagamihara Campus. The bus leaves the airport and goes directly to the campus. Please note, however, you might need to wait for several hours depending on the time your flight is arriving.
+
+### Orientations for International Students
+Several orientations are scheduled either before or during the first week of each semester to provide information on such things as course registration, life in Japan and facilities on campus. Most of you will come to Japan for the first time, so all the staffs on our campus are ready to support you and answer your questions during these sessions.
+
+## Activities
+### Coffee meetings
+These meetings are for international students, AGU students and buddies/tutors to socialize together, with games and events. They usually take place two or three times in a semester at the Sagamihara Campus. Don’t miss out on these fun events!
+
+## Accommodation
+We help international students find accommodation as convenient and close to our campus as possible. Below are some examples of housing we have introduced previously. Please note that they may not have availability when you apply.
+
+## Housing Information
+* [Global Residence Sagamihara](https://tokyosharehouse.com/eng/house/detail/1960/)
+* [Aoyama Gakuin University Student Dormitory](http://www.aoyama.ac.jp/life/health/dormitory/dormitory_sagamihara.html)
 
 
-#### Natasha Zamil
+---
 
-This student exchange program has shown its impact on me in various ways. I have learnt about numerous cultures and made the most of my opportunities given. I have gained new friends and felt as if I am a local in this country and a part of their culture. I have fallen in love with the environment as it is so lively yet peaceful and convenient. I have found that being an exchange student has been a life changing experience for me. It has made me realize that I can do so much more than I thought was possible. My advice to you would be to take every opportunity, embrace the culture, learn new languages and enjoy making new lifelong connections. You will not regret it because I had the time of my life here!
+## Contact
+* Academic Affairs Division
+* Sagamihara Campus Administration Department, Aoyama Gakuin University
+* Address: 5-10-1 Fuchinobe, Chuo-ku, Sagamihara, Kanagawa 252-5258, Japan
+* E-mail: info@gsc.aoyama.ac.jp
+* Fax: +81-42-759-6035
+* GSC Website-> [www.gsc.aoyama.ac.jp/international/](http://www.gsc.aoyama.ac.jp/international/)
+* AGU Website -> [www.aoyama.ac.jp/en/](http://www.aoyama.ac.jp/en/)
 
-![natashazamil](https://user-images.githubusercontent.com/416977/41880584-cbfcc932-7919-11e8-82c5-dd12d5498af7.jpg)
-
-
-<!--
-{:.list-links}
-*   [対談「アジアの最前線から」][yahooxgsc]
-*   [5 年後、10 年後の未来を想像してみよう][future]
-*   [今後、必要とされる人材とは][needs]
-*   [想定される卒業後の進路][course]
--->
-
-[yahooxgsc]: {{ '/career/yahooxgsc/' | relative_url }}
-[future]: {{ '/career/future/' | relative_url }}
-[needs]: {{ '/career/needs/' | relative_url }}
-[course]: {{ '/career/course/' | relative_url }}
