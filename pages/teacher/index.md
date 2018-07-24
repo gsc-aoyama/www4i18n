@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academics
+title: About AGU
 permalink: /teacher/
 category: teacher
 sort: 1
