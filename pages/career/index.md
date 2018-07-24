@@ -30,8 +30,6 @@ We help international students find accommodation as convenient and close to our
 * [Aoyama Gakuin University Student Dormitory](http://www.aoyama.ac.jp/life/health/dormitory/dormitory_sagamihara.html)
 
 
----
-
 ## Contact
 * Academic Affairs Division
 * Sagamihara Campus Administration Department, Aoyama Gakuin University
