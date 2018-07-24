@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Overview
+title: About US
 lead: 
 permalink: /introduction/
 category: introduction
