@@ -5,7 +5,6 @@ permalink: /campus/
 category: campus
 ---
 
-## Exchange Student Program
 
 Thank you for your interest in our Exchange Student Program.
 The School of Global Studies and Collaboration (GSC) develops students’ global perspectives with a focus on collaboration with Asian countries. That is why our exchange students are mostly from Thailand, Malaysia and elsewhere in the region. We also welcome students from various countries. GSC’s Japan Studies Program offers international students opportunities to explore the multi-facets of Japan in English. GSC is open to non-Japanese speakers with the required English proficiency level.
@@ -23,7 +22,7 @@ For more information, please refer to the Information on the Exchange Student Pr
 Aoyama Gakuin University accepts exchange students from partner universities.
 If you are interested in studying at GSC as a university-level exchange student, please visit the International Exchange Center website for more details.
 
-http://web.iec.aoyama.ac.jp/english/index.html
+* [http://web.iec.aoyama.ac.jp/english/](http://web.iec.aoyama.ac.jp/english/index.html)
 
 ## Departmental Exchange Student Program
 GSC has its own exchange agreements with faculties of foreign universities.
@@ -44,7 +43,7 @@ Please read the Application Instructions for Exchange Students before applying t
 
 For more details about student life and student support at AGU/GSC, please visit the following website:
 
-## Student Support
+＊ Student Support
 
 ---
 
