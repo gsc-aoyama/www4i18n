@@ -6,7 +6,7 @@ category: teacher
 sort: 1
 ---
 
-# Aoyama Gakuin University (AGU)
+## Aoyama Gakuin University (AGU)
 
 Combining cutting-edge innovation with a rich tradition of teaching and education
 Aoyama Gakuin University (AGU) was established in 1949. It is part of Aoyama Gakuin, an educational institute based on the Christian faith that marked its 140 year anniversary in November 2014. AGU is widely recognized as one of Japan’s leading universities, with a reputation for its quality of education and cosmopolitan ambience.
@@ -15,11 +15,13 @@ AGU has two campuses that are home to 10 schools and 24 departments, with an enr
 
 Find out more about AGU at AGU Facts and Data ( [http://www.aoyama.ac.jp/en/outline/facts_data.html](http://www.aoyama.ac.jp/en/outline/facts_data.html) ).
 
-# Contact
-Academic Affairs Division
-Sagamihara Campus Administration Department, Aoyama Gakuin University
-Address: 5-10-1 Fuchinobe, Chuo-ku, Sagamihara, Kanagawa 252-5258, Japan
-E-mail: info@gsc.aoyama.ac.jp
-Fax: +81-42-759-6035
-GSC Website -> www.gsc.aoyama.ac.jp/international/
-AGU Website -> www.aoyama.ac.jp/en/
+---
+
+## Contact
+* Academic Affairs Division
+* Sagamihara Campus Administration Department, Aoyama Gakuin University
+* Address: 5-10-1 Fuchinobe, Chuo-ku, Sagamihara, Kanagawa 252-5258, Japan
+* E-mail: info@gsc.aoyama.ac.jp
+* Fax: +81-42-759-6035
+* GSC Website-> [www.gsc.aoyama.ac.jp/international/](http://www.gsc.aoyama.ac.jp/international/)
+* AGU Website -> [www.aoyama.ac.jp/en/](http://www.aoyama.ac.jp/en/)
