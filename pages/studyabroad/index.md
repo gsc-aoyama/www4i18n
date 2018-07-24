@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Admission
+title: Extracurricular Program
 permalink: /studyabroad/
 category: studyabroad
 sort: 1
