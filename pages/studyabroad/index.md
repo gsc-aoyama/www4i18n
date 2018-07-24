@@ -16,7 +16,7 @@ In addition, the program organizes field trips to other parts of Japan including
 
 All students take part in these extracurricular activities. They can see, feel and experience Japanese cultural heritage, the way of life and esthetics. The AGU network offers students unique opportunities to immerse themselves in Japan, in ways that are completely different from regular tourist visits, and to capitalize on what they learn in classes.
 
-* Please note that the destinations mentioned above and the duration of field trips and excursions will differ each semester depending on the coursework, lecturer availability and local conditions.
+※Please note that the destinations mentioned above and the duration of field trips and excursions will differ each semester depending on the coursework, lecturer availability and local conditions.
 
 
 International and Japanese students visit the Tomioka Silk Mill in Gunma Prefecture, during a field trip to learn about its contribution to Japan’s modernization process.
