@@ -45,7 +45,6 @@ For more details about student life and student support at AGU/GSC, please visit
 
 ＊ Student Support
 
----
 
 ## Contact
 * Academic Affairs Division
