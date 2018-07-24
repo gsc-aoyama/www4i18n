@@ -25,8 +25,6 @@ Internships
 We offer various internship opportunities for international students at world-renowned Japanese companies, NPOs/NGOs, local governments, and so on. Our program offers full support for internships from start to finish. Explore your career interests and gain valuable experiences off-campus by working in a different culture.
 
 
----
-
 ## Contact
 * Academic Affairs Division
 * Sagamihara Campus Administration Department, Aoyama Gakuin University
