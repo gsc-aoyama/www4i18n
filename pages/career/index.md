@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Student Voices
+title: Student Support
 permalink: /career/
 category: career
 sort: 1
