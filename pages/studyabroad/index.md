@@ -19,8 +19,7 @@ All students take part in these extracurricular activities. They can see, feel a
 ※Please note that the destinations mentioned above and the duration of field trips and excursions will differ each semester depending on the coursework, lecturer availability and local conditions.
 
 
-International and Japanese students visit the Tomioka Silk Mill in Gunma Prefecture, during a field trip to learn about its contribution to Japan’s modernization process.
-Internships
+## Internships
 
 We offer various internship opportunities for international students at world-renowned Japanese companies, NPOs/NGOs, local governments, and so on. Our program offers full support for internships from start to finish. Explore your career interests and gain valuable experiences off-campus by working in a different culture.
 
