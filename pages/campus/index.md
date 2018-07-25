@@ -43,7 +43,7 @@ Please read the Application Instructions for Exchange Students before applying t
 
 For more details about student life and student support at AGU/GSC, please visit the following website:
 
-＊ Student Support
+[＊ Student Support](https://gsc-aoyama.github.io/www4i18n/career/)
 
 
 ## Contact
