@@ -26,8 +26,7 @@ These meetings are for international students, AGU students and buddies/tutors t
 We help international students find accommodation as convenient and close to our campus as possible. Below are some examples of housing we have introduced previously. Please note that they may not have availability when you apply.
 
 ## Housing Information
-* [Global Residence Sagamihara](https://tokyosharehouse.com/eng/house/detail/1960/)
-* [Aoyama Gakuin University Student Dormitory](http://www.aoyama.ac.jp/life/health/dormitory/dormitory_sagamihara.html)
+* [AGU I-House Sagamihara](http://www.aoyama.ac.jp/en/campuslife/student_life.html)
 
 
 ## Contact
