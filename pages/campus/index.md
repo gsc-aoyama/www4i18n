@@ -12,11 +12,11 @@ The School of Global Studies and Collaboration (GSC) develops students’ global
 
 For more information, please refer to the Information on the Exchange Student Program as well as lists and descriptions of courses which will be available in August.
 
-## Program Details
-* Information on the Exchange Student Program
-* List of Courses offered in English Spring - Fall 2019
-* Course Descriptions for Japan Studies Course Spring - Fall 2019
-* Course Descriptions for GSC Courses offered in English Spring - Fall 2019
+## Program Details (coming soon)
+* Information on the Exchange Student Program 
+* List of Courses offered in English Spring - Fall 2019 
+* Course Descriptions for Japan Studies Course Spring - Fall 2019 
+* Course Descriptions for GSC Courses offered in English Spring - Fall 2019 
 
 To study at GSC, you can apply to one of the following programs:
 - The University Exchange Student Program
@@ -43,8 +43,8 @@ The partner faculties for the Departmental Exchange Student Program are as follo
 The Application Instructions for Exchange Students applying to the Departmental Exchange Student Program will be available in August.
 Stay tuned to access the documents. 
 
-* Application Instructions for Exchange Students Spring 2019 (English)
-* Application Instructions for Exchange Students Spring 2019 (Japanese)
+* Application Instructions for Exchange Students Spring 2019 (English) (coming soon)
+* Application Instructions for Exchange Students Spring 2019 (Japanese) (coming soon)
 
 For more details about student life and student support at AGU/GSC, please visit the following website:
 
