@@ -7,14 +7,14 @@ category: campus
 
 
 Thank you for your interest in our Exchange Student Program.
-The School of Global Studies and Collaboration (GSC) develops students’ global perspectives with a focus on collaboration with Asian countries. That is why our exchange students are mostly from Thailand, Malaysia and elsewhere in the region. We also welcome students from various countries. GSC’s Japan Studies Program offers international students opportunities to explore the multi-facets of Japan in English. GSC is open to non-Japanese speakers with the required English proficiency level.
+The School of Global Studies and Collaboration (GSC) develops students’ global perspectives with a focus on collaboration with Asian countries. That is why our exchange students are mostly from Thailand, Malaysia and elsewhere in the region. We also welcome students from various countries. GSC’s Japan Studies Program offers international students opportunities to explore the multi-facets of Japan in English. 
 For more information, please refer to the Information on the Exchange Student Program as well as lists and descriptions of courses which will be available in August.
 
 ## Program Details
 * Information on the Exchange Student Program
-* List of Courses offered in English 2019 Spring- 2019 Fall
-* Course Descriptions for Japan Studies Course 2019 Spring- 2019 Fall
-* Course Descriptions for GSC Courses offered in English 2019 Spring- 2019 Fall
+* List of Courses offered in English Spring - Fall 2019
+* Course Descriptions for Japan Studies Course Spring - Fall 2019
+* Course Descriptions for GSC Courses offered in English Spring - Fall 2019
 
 To study at GSC, you can apply to one of the following programs:
 - The University Exchange Student Program
