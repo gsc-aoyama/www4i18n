@@ -1,14 +1,14 @@
 ---
 layout: page
-title: お問い合わせ
+title: Contact
 permalink: /general/contact/
 category: general
 sort: 2
 ---
 
 
-## 青山学院大学 地球社会共生学部
+## The School of Global Studies and Collaboration (GSC), Aoyama Gakuin University
 
-〒252-5258  
-神奈川県相模原市中央区淵野辺 5-10-1 相模原キャンパス  
+Sagamihara Campus,
+5-10-1 Fuchinobe, Chuo-ku, Sagamihara, Kanagawa 252-5258, Japan, ZIP:252-5258 
 [info@gsc.aoyama.ac.jp](mailto:info@gsc.aoyama.ac.jp)
