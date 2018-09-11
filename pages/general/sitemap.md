@@ -1,6 +1,6 @@
 ---
 layout: page
-title: サイトマップ
+title: Sitemap
 permalink: /general/sitemap/
 category: general
 sort: 3
@@ -43,11 +43,11 @@ sort: 3
     *   [JSCP Application][international/application]
     *   [Extracurricular Program][international/extracurricular-program]
     *   [Student Support][international/student-support]
-*   [交通アクセス][general/access]
-*   [資料請求](http://www.aoyama.ac.jp/outline/reference/)
-*   [このサイトについて][general/sitepolicy]
-*   [お問い合わせ][general/contact]
-*   [サイトマップ][general/sitemap]
+*   [Access][general/access]
+*   [Reference](http://www.aoyama.ac.jp/outline/reference/)
+*   [Site Policy][general/sitepolicy]
+*   [Contact][general/contact]
+*   [Sitemap][general/sitemap]
 
 
 [introduction]: {{ '/introduction/' | relative_url }}
