@@ -1,6 +1,6 @@
 ---
 layout: page
-title: このサイトについて
+title: Site Policy
 permalink: /general/sitepolicy/
 category: general
 sort: 4
