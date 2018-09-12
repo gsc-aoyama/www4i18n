@@ -11,7 +11,7 @@ sort: 1
 Fuchinobe 5-10-1, Chuo-ward, Sagamihara Kanagawa, JAPAN.
 ZIP:252-5258
 
-Approximately 7 minutes on foot from Yokohama line "Fuchano station"
+Approximately 7 minutes on foot from Yokohama line "Fuchinobe station"
 
 *   <span class="asterisk">※</span>Please refrain from coming to the Sagamihara campus by car.
 
