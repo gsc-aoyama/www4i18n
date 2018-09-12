@@ -13,7 +13,7 @@ The School of Global Studies and Collaboration (GSC) develops students’ global
 For more information, please refer to the Information on the Exchange Student Program as well as lists and descriptions of courses which will be available in August.
 
 ## Program Details (coming soon)
-* Information on the Exchange Student Program 
+* [Information on the Exchange Student Program](/assets/docs/2018/Information.on.the.Exchange.Student.Program.pdf) 
 * List of Courses offered in English Spring - Fall 2019 
 * Course Descriptions for Japan Studies Course Spring - Fall 2019 
 * Course Descriptions for GSC Courses offered in English Spring - Fall 2019 
