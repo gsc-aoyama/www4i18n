@@ -43,8 +43,8 @@ The partner faculties for the Departmental Exchange Student Program are as follo
 The Application Instructions for Exchange Students applying to the Departmental Exchange Student Program will be available in August.
 Stay tuned to access the documents. 
 
-* Application Instructions for Exchange Students Spring 2019 (English) (coming soon)
-* Application Instructions for Exchange Students Spring 2019 (Japanese) (coming soon)
+* [Application Instructions for Exchange Students Spring 2019 (English)](/www4i18n/assets/docs/2018/2019Spring_Application.Instructions.for.Exchange.Students.English.pdf) 
+* [Application Instructions for Exchange Students Spring 2019 (Japanese)](/www4i18n/assets/docs/2018/2019Spring_Application.Instructions.for.Exchange.Students.Japanese.pdf) 
 
 For more details about student life and student support at AGU/GSC, please visit the following website:
 
