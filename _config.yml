@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 青山学院大学 地球社会共生学部
+title: GSC at AGU
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  青山学院大学の地球社会共生学部のホームページです。地球社会共生学部は社会科学系の幅広い学問基盤のもと「共生マインド」を体得したうえで、専門能力を身につけるグローバル系の学部。ここではカリキュラムや入試情報などを掲載しています。
+#  青山学院大学の地球社会共生学部のホームページです。地球社会共生学部は社会科学系の幅広い学問基盤のもと「共生マインド」を体得したうえで、専門能力を身につけるグローバル系の学部。ここではカリキュラムや入試情報などを掲載しています。
 baseurl: "www4i18n" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
