@@ -14,17 +14,16 @@ For more information, please refer to the Information on the Exchange Student Pr
 
 <h2 id="program-details">Program Details</h2>
 <ul>
-  <li><a href="/www4i18n/assets/docs/2018/Information.on.the.Exchange.Student.Program.pdf" target="_blank" class="pdf">Information on the Exchange Student Program</a></li>
-  <li><a href="/www4i18n/assets/docs/2018/List.of.Courses.offered.in.English.2019.Spring-.2019.Fall.pdf" target="_blank" class="pdf">List of Courses offered in English Spring - Fall 2019</a></li>
-  <li><a href="/www4i18n/assets/docs/2018/Course.Descriptions.for.Japan.Studies.Courses.2019.Spring-.2019.Fall.pdf" target="_blank" class="pdf">Course Descriptions for Japan Studies Course Spring - Fall 2019</a></li>
-  <li><a href="/www4i18n/assets/docs/2018/Course.Descriptions.for.GSC.Courses.offered.in.English.2019.Spring-.2019.Fall.pdf" target="_blank" class="pdf">Course Descriptions for GSC Courses offered in English Spring - Fall 2019</a></li>
+  <li><a href="/www4i18n/assets/docs/2019/Information on the Exchange Student Program.pdf" target="_blank" class="pdf">Information on the Exchange Student Program</a></li>
+  <li><a href="/www4i18n/assets/docs/2019/2019courselist_English.pdf" target="_blank" class="pdf">List of Courses offered in English 2019</a></li>
+ 
+  <li><a href="/www4i18n/assets/docs/2019/2019courselist_Japanese.pdf" target="_blank" class="pdf">List of Courses offered in Japanese 2019</a></li>
 </ul>
 <!--
 ## Program Details
-* [Information on the Exchange Student Program](/www4i18n/assets/docs/2018/Information.on.the.Exchange.Student.Program.pdf) 
-* [List of Courses offered in English Spring - Fall 2019](/www4i18n/assets/docs/2018/List.of.Courses.offered.in.English.2019.Spring-.2019.Fall.pdf)
-* [Course Descriptions for Japan Studies Course Spring - Fall 2019](/www4i18n/assets/docs/2018/Course.Descriptions.for.Japan.Studies.Courses.2019.Spring-.2019.Fall.pdf)
-* [Course Descriptions for GSC Courses offered in English Spring - Fall 2019](/www4i18n/assets/docs/2018/Course.Descriptions.for.GSC.Courses.offered.in.English.2019.Spring-.2019.Fall.pdf)
+* [Information on the Exchange Student Program](/www4i18n/assets/docs/2019/Information on the Exchange Student Program.pdf) 
+* [List of Courses offered in English 2019](/www4i18n/assets/docs/2019/2019courselist_English.pdf)
+* [List of Courses offered in Japanese 2019](/www4i18n/assets/docs/2019/2019courselist_Japanese.pdf)
 -->
 To study at GSC, you can apply to one of the following programs:
 - The University Exchange Student Program
@@ -55,12 +54,12 @@ The partner faculties for the Departmental Exchange Student Program are as follo
 The Application Instructions for Exchange Students applying to the Departmental Exchange Student Program will be available in August.
 Stay tuned to access the documents. 
 <ul>
-  <li><a href="/www4i18n/assets/docs/2018/2019Spring_Application.Instructions.for.Exchange.Students.English.pdf" target="_blank" class="pdf">Application Instructions for Exchange Students Spring 2019 (English)</a></li>
-  <li><a href="/www4i18n/assets/docs/2018/2019Spring_Application.Instructions.for.Exchange.Students.Japanese.pdf" target="_blank" class="pdf">Application Instructions for Exchange Students Spring 2019 (Japanese)</a></li>
+  <li><a href="/www4i18n/assets/docs/2019/2019Fall_Application for Exchange Students (English) .pdf" target="_blank" class="pdf">Application Instructions for Exchange Students Fall 2019 (English)</a></li>
+  <li><a href="/www4i18n/assets/docs/2019/2019Fall_Application for Exchange Students (Japanese) .pdf" target="_blank" class="pdf">Application Instructions for Exchange Students Fall 2019 (Japanese)</a></li>
 </ul>
 <!--
-* [Application Instructions for Exchange Students Spring 2019 (English)](/www4i18n/assets/docs/2018/2019Spring_Application.Instructions.for.Exchange.Students.English.pdf) 
-* [Application Instructions for Exchange Students Spring 2019 (Japanese)](/www4i18n/assets/docs/2018/2019Spring_Application.Instructions.for.Exchange.Students.Japanese.pdf) 
+* [Application Instructions for Exchange Students Fall 2019 (English)](/www4i18n/assets/docs/2019/2019Fall_Application for Exchange Students (English) .pdf) 
+* [Application Instructions for Exchange Students Fall 2019 (Japanese)](/www4i18n/assets/docs/2019/2019Fall_Application for Exchange Students (Japanese) .pdf) 
 -->
 
 For more details about student life and student support at AGU/GSC, please visit the following website:
