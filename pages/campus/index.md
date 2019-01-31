@@ -16,8 +16,8 @@ For more information, please refer to the Information on the Exchange Student Pr
 <ul>
   <li><a href="/www4i18n/assets/docs/2019/Information on the Exchange Student Program.pdf" target="_blank" class="pdf">Information on the Exchange Student Program</a></li>
   <li><a href="/www4i18n/assets/docs/2019/2019courselist_English.pdf" target="_blank" class="pdf">List of Courses offered in English 2019</a></li>
-  <li><a href="/www4i18n/assets/docs/2019/Course Descriptions for GSC Courses offered in English.pdf" target="_blank" class="pdf">List of Courses offered in Japanese 2019</a></li>
-  <li><a href="/www4i18n/assets/docs/2019/2019courselist_Japanese.pdf" target="_blank" class="pdf">Course Descriptions for GSC courses offered in English</a></li>
+  <li><a href="/www4i18n/assets/docs/2019/2019courselist_Japanese.pdf" target="_blank" class="pdf">List of Courses offered in Japanese 2019</a></li>
+  <li><a href="/www4i18n/assets/docs/2019/Course Descriptions for GSC Courses offered in English.pdf" target="_blank" class="pdf">Course Descriptions for GSC courses offered in English</a></li>
   <li><a href="/www4i18n/assets/docs/2019/Course Descriptions for Japan Studies Courses.pdf" target="_blank" class="pdf">Course Descriptions for Japan Studies courses</a></li>
 </ul>
 <!--
