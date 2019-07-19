@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Extracurricular Program
-permalink: /studyabroad/
-category: studyabroad
+permalink: /extracurricular/
+category: extracurricular
 sort: 1
 ---
 
@@ -43,8 +43,3 @@ We offer various internship opportunities for international students at world-re
 * GSC Website-> [www.gsc.aoyama.ac.jp/international/](http://www.gsc.aoyama.ac.jp/international/)
 * AGU Website -> [www.aoyama.ac.jp/en/](http://www.aoyama.ac.jp/en/)
 -->
-
-
-
-
-
