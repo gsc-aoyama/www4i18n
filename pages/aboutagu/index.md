@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About AGU
-permalink: /teacher/
-category: teacher
+permalink: /aboutagu/
+category: aboutagu
 sort: 1
 ---
 
