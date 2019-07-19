@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Student Support
-permalink: /career/
-category: career
+permalink: /support/
+category: support
 sort: 1
 ---
 
