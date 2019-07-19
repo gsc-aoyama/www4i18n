@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About Us
-lead: 
-permalink: /introduction/
-category: introduction
+lead:
+permalink: /aboutus/
+category: aboutus
 sort: 1
 ---
 
