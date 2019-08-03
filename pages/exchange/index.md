@@ -52,6 +52,7 @@ The partner faculties for the Departmental Exchange Student Program are as follo
 * Chulalongkorn University , Faculty of Arts (Thailand)
 * Thammasat University, Faculty of Liberal Arts (Thailand)
 * Mahidol University, Faculty of Liberal Arts (Thailand)
+* Srinakharinwirot University, International College For Sustainability Studies (Thailand)
 * University of Malaya, Faculty of Arts and Social Science (Malaysia)
 * University of Gadjah Mada, Faculty of Social and Political Sciences (Indonesia)
 
