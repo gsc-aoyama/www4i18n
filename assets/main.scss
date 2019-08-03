@@ -422,3 +422,14 @@
   margin-left: 0.5em;
 }
 
+
+/*ハンバーガーメニュー スクロールー*/
+
+@media screen and (max-width: 40em) { /*640px以下*/
+
+  .m-hamburger_content{
+    overflow-y: scroll;
+    height:100%;
+    -webkit-overflow-scrolling: touch;
+  }
+}
