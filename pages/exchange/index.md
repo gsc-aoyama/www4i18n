@@ -14,19 +14,19 @@ For more information, please refer to the Information on the Exchange Student Pr
 
 <h2 id="program-details">Program Details</h2>
 <ul>
-  <li><a href="/assets/docs/2019/Information on the Exchange Student Program.pdf" target="_blank" class="pdf">Information on the Exchange Student Program</a></li>
+  <li><a href="/assets/docs/2020/Information_on_the_Exchange_Student_Program.pdf" target="_blank" class="pdf">Information on the Exchange Student Program</a></li>
   <li><a href="/assets/docs/2019/2019courselist_English.pdf" target="_blank" class="pdf">List of Courses offered in English 2019</a></li>
   <li><a href="/assets/docs/2019/2019courselist_Japanese.pdf" target="_blank" class="pdf">List of Courses offered in Japanese 2019</a></li>
   <li><a href="/assets/docs/2019/Course Descriptions for GSC Courses offered in English.pdf" target="_blank" class="pdf">Course Descriptions for GSC courses offered in English</a></li>
-  <li><a href="/assets/docs/2019/Course Descriptions for Japan Studies Courses.pdf" target="_blank" class="pdf">Course Descriptions for Japan Studies courses</a></li>
+  <li><a href="/assets/docs/2020/Course_Descriptions_for_Japan_Studies_Courses.pdf" target="_blank" class="pdf">Course Descriptions for Japan Studies courses</a></li>
 </ul>
 <!--
 ## Program Details
-* [Information on the Exchange Student Program](/assets/docs/2019/Information on the Exchange Student Program.pdf)
+* [Information on the Exchange Student Program](/assets/docs/2020/Information_on_the_Exchange_Student_Program.pdf)
 * [List of Courses offered in English 2019](/assets/docs/2019/2019courselist_English.pdf)
 * [List of Courses offered in Japanese 2019](/assets/docs/2019/2019courselist_Japanese.pdf)
 * [Course Descriptions for GSC courses offered in English](/assets/docs/2019/Course Descriptions for GSC Courses offered in English.pdf)
-* [Course Descriptions for Japan Studies courses](/assets/docs/2019/Course Descriptions for Japan Studies Courses.pdf)
+* [Course Descriptions for Japan Studies courses](/assets/docs/2020/Course_Descriptions_for_Japan_Studies_Courses.pdf)
 
 -->
 To study at GSC, you can apply to one of the following programs:
@@ -58,12 +58,12 @@ The partner faculties for the Departmental Exchange Student Program are as follo
 The Application Instructions for Exchange Students applying to the Departmental Exchange Student Program will be available in August.
 Stay tuned to access the documents.
 <ul>
-  <li><a href="/assets/docs/2019/2019Fall_Application for Exchange Students (English) .pdf" target="_blank" class="pdf">Application Instructions for Exchange Students Fall 2019 (English)</a></li>
-  <li><a href="/assets/docs/2019/2019Fall_Application for Exchange Students (Japanese) .pdf" target="_blank" class="pdf">Application Instructions for Exchange Students Fall 2019 (Japanese)</a></li>
+  <li><a href="/assets/docs/2020/2020_Spring_Application_Instructions_for_Exchange_Students(English).pdf" target="_blank" class="pdf">Application Instructions for Exchange Students Spring 2020 (English)</a></li>
+  <li><a href="/assets/docs/2020/2020_Spring_Application_Instructions_for_Exchange_Students(Japanese).pdf" target="_blank" class="pdf">Application Instructions for Exchange Students Spring 2020 (Japanese)</a></li>
 </ul>
 <!--
-* [Application Instructions for Exchange Students Fall 2019 (English)](/assets/docs/2019/2019Fall_Application for Exchange Students (English) .pdf)
-* [Application Instructions for Exchange Students Fall 2019 (Japanese)](/assets/docs/2019/2019Fall_Application for Exchange Students (Japanese) .pdf)
+* [Application Instructions for Exchange Students Spring 2020 (English)](/assets/docs/2020/2020_Spring_Application_Instructions_for_Exchange_Students(English).pdf)
+* [Application Instructions for Exchange Students Spring 2020 (Japanese)](/assets/docs/2020/2020_Spring_Application_Instructions_for_Exchange_Students(Japanese).pdf)
 -->
 
 For more details about student life and student support at AGU/GSC, please visit the following website:
